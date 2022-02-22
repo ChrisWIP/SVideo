@@ -10,5 +10,5 @@ You need +5v and LUMA and CHROMA that are somewhere in the ballpark of correctly
 
 ![Svideo PCB](VidAmp.png)
 
-Have fun!
+I originally put this together to give my Atari XE a slightly better quality of video and to generate a composite out without leaking LUMA everywhere. Have fun!
 
