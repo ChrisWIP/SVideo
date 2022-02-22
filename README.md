@@ -6,7 +6,7 @@ The PCB uses the FMS6400 IC at U1 - and while these are older and out of product
 
 Datasheet for the IC: https://static6.arrow.com/aropdfconversion/7fe50da04e1ba81a06ef8d061fd01bb64574320b/fms6400.pdf
 
-You need +5v and LUMA and CHROMA that are somwhere in the ballpark of correctly generated. This board will take those signals and spit out filtered / corrected signals that can be sent on to a TV or Projector, most anything that accepts SVideo or Composite.
+You need +5v and LUMA and CHROMA that are somewhere in the ballpark of correctly generated. This board will take those signals and spit out filtered / corrected signals that can be sent on to a TV or Projector, most anything that accepts SVideo or Composite.
 
 ![Svideo PCB](VidAmp.png)
 
