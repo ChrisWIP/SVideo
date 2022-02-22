@@ -8,7 +8,7 @@ Datasheet for the IC: https://static6.arrow.com/aropdfconversion/7fe50da04e1ba81
 
 You need +5v and LUMA and CHROMA that are somwhere in the ballpark of correctly generated. This board will take those signals and spit out filtered / corrected signals that can be sent on to a TV or Projector, most anything that accepts SVideo or Composite.
 
-![Svideo PCB](images/SvideoPCB.png)
+![Svideo PCB](images/VidAmp.png)
 
 Have fun!
 
