@@ -1,0 +1,47 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*%
+%TF.CreationDate,2022-02-22T12:17:33-04:00*%
+%TF.ProjectId,Retro Video Amp,52657472-6f20-4566-9964-656f20416d70,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-02-22 12:17:33*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.000000X1.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,*%
+X24045000Y-19630000D03*
+%TD*%
+%TO.C,*%
+X43920000Y-17090000D03*
+%TD*%
+%TO.C,*%
+X24045000Y-24300000D03*
+%TD*%
+%TO.C,*%
+X43920000Y-29790000D03*
+%TD*%
+%TO.C,*%
+X43920000Y-27250000D03*
+%TD*%
+%TO.C,*%
+X43920000Y-19630000D03*
+%TD*%
+%TO.C,*%
+X24045000Y-17090000D03*
+%TD*%
+%TO.C,*%
+X43920000Y-24710000D03*
+%TD*%
+%TO.C,*%
+X24045000Y-29210000D03*
+%TD*%
+%TO.C,*%
+X43920000Y-22170000D03*
+%TD*%
+M02*
